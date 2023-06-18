@@ -88,6 +88,7 @@
 
             <RadioButton
                 android:id="@+id/tip20"
+                android:checked="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/amazing_20" />
